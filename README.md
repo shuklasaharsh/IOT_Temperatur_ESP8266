@@ -26,5 +26,5 @@
 ! Direction Forward:
 ! Export model.
 ! Create seperate files for model creation - createModel.py
-! Create seperate model for real time prediction and working.
+! Create seperate model for real time prediction and working - predictTemp.py
 ```
