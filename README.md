@@ -1,5 +1,16 @@
-# Temperature prediction algorithm v1.0.0
+# Temperature prediction algorithm v1.0.0 - CookSense
 **Note: This project has three parts, Data Visualisation, Data Collection and Server creation**
+## The Project
+### CookSense_v1.0.0
+- In its current form the project can collect data and upload to thingspeak.
+- This data can be processed once the data is saved.
+- The saved data can be used for visualisation.
+- **There will be 10 updates from v1.0.0 to v1.0.9 with hardware improvements and increments to the code accordingly.**
+- **The initial marketable product shall be CookSense v1.1.0a and v1.1.0b**
+```diff
+- For CookSensev1.0.1: Seamless uploading and analysis of data
+```
+
 ## Data processing and visualisation
 ### Directions of use
 - Clone the library to your System.
