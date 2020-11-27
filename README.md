@@ -1,6 +1,7 @@
 # Temperature prediction algorithm v1.0.0 - CookSense
 **Note: This project has three parts, Data Visualisation, Data Collection and Server creation**
-**Note: The project is still under construction. Hopefuly you can understand a little bit from the idea of the readme**
+
+## **Note: The project is still under construction. Hopefuly you can understand a little bit from the idea of the readme**
 ## The Project
 ### CookSense_v1.0.0
 - In its current form the project can collect data and upload to thingspeak.
