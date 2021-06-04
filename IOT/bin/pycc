@@ -1,0 +1,3 @@
+#!/Users/SaharshShukla/My Documents/Core/IOT-Review-3/IOT_Temperatur_ESP8266/IOT/bin/python3
+from numba.pycc import main
+main()
