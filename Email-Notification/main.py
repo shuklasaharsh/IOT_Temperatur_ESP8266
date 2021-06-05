@@ -2,6 +2,7 @@ import pandas as pd
 from datetime import datetime as dt
 import createMail as cm
 import getData as gd
+import coremltools
 
 gd.saveData()
 
