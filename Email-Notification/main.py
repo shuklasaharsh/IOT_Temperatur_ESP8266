@@ -1,16 +1,15 @@
 import pandas as pd
-import getData as gd
+from datetime import datetime as dt
 import createMail as cm
-import time
+import getData as gd
+
 gd.saveData()
 
 df = pd.read_csv('./1.csv')
 temperature, time = gd.splitData(df)
+time = dt.now()
+current_time = time.strftime("%H:%M:%S")
 address = "saharsh.shukla2018@vitstudent.ac.in"
-data = [time, temperature]
+data = [current_time, temperature]
 cm.sendMail(address, data)
-a = time.time
-print("Mail sent at time: ", a)
-
-
-
+print("Mail sent at time: ", time)
