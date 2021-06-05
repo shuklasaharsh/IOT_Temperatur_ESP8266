@@ -12,6 +12,9 @@
 ### Open "https://nbviewer.jupyter.org/"
 ### Paste this link - https://github.com/shuklasaharsh/IOT_Temperatur_ESP8266/blob/main/Notebook/Time%20predictor%20backend.ipynb
 
+## OR
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shuklasaharsh/IOT_Temperatur_ESP8266/blob/main/Notebook/Time%20predictor%20backend.ipynb)
+
 ```diff
 + The Notebook should be visible.
 ```
