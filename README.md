@@ -1,9 +1,10 @@
 # Temperature prediction algorithm v1.0.0 - CookSense
 **Note: This project has three parts, Data Visualisation, Data Collection and Server creation**
 ```diff
-+ Update: Friday, June 5 - 13:45 IST
++ Update: Friday, June 6 - 08:54 IST
 + Completion of phase 1
 + v1.0.1 with analytics and data in Repository
++ Seamless updation and email notification and analytics
 + Creation of Email Notification complete
 ```
 ## **Note: The project is still under construction. Hopefuly you can understand a little bit from the idea of the readme**
@@ -15,7 +16,7 @@
 - **There will be 10 updates from v1.0.0 to v1.0.9 with hardware improvements and increments to the code accordingly.**
 - **The initial marketable product shall be CookSense v1.1.0a and v1.1.0b**
 ```diff
-- For CookSense v1.0.1: Seamless uploading and analysis of data
+- For CookSense v1.0.2: Better analytics and collection of more data
 ```
 
 ## Data processing and visualisation
