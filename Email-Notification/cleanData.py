@@ -8,4 +8,4 @@ def getCleanData(sf):
     st = sf['time'][0]
     sf['difference'] = (sf['time'] - st)
     df = sf.to_dataframe()
-    return df
+    return df, sf
