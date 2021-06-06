@@ -4,7 +4,7 @@ import numpy as np
 
 
 def saveData():
-    url = 'https://thingspeak.com/channels/1408499/field/2.csv'
+    url = 'https://thingspeak.com/channels/1408499/feed.csv'
     urllib.request.urlretrieve(url, './1.csv')
 
 
