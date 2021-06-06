@@ -39,11 +39,10 @@
 - Export the code from thingspeak
 
 ```diff
-- Pending: Export model, create server.
+- Pending: Create server
 + Complete: Basic MVP for Class project purposes.
 
 ! Direction Forward:
-! Export model.
-! Create seperate files for model creation - createModel.py
-! Create seperate model for real time prediction and working - predictTemp.py
+! Better analytics
+! Better preprocessing.
 ```
