@@ -1,4 +1,4 @@
-#!/Users/SaharshShukla/My Documents/Core/IOT-Review-3/IOT_Temperatur_ESP8266/IOT/bin/python3
+#!/Users/saharshshukla/PycharmProjects/IOT_Temperatur_ESP8266/IOT/bin/python
 # -*- coding: UTF-8 -*-
 from __future__ import print_function, division, absolute_import
 
